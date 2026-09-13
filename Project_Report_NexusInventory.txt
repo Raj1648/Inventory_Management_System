@@ -1,0 +1,23 @@
+currently I am in second year.
+in technical skills:
+Languages: Python, c, c++, javascript
+frontend: React, vite, tailwind css
+backend: node.js, express.js, socket.io
+database: MySQL, PostgreSQL, MongoDB
+tools and platforms: git, Linux, vercel, vite, vs code
+concepts:
+full stack, ai/ml, dsa, cybersecurity, rest apis, data analysis, data science, computer networks, computer architecture
+
+Interests
+○ Artificial Intelligence, ML, DL, Neural Networks, LLMs
+○ Cybersecurity & Ethical Hacking
+○ Scalable Backend Architecture
+○ Quantitative Systems
+
+leave the achievement section for now.
+
+now update the latex code.
+
+qwertyuiop
+asdfghjkl
+zxcvbnm

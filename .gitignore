@@ -1,0 +1,8 @@
+node_modules/
+inventory-frontend/node_modules/
+inventory-backend/node_modules/
+*.csv
+*.json
+.env
+*.log
+*.err

@@ -1,0 +1,6 @@
+
+C:\Users\dassu\projects\web\Inventory_Management_System\inventory-frontend\src\App.jsx
+  1:10  error  Fast refresh only works when a file has exports. Move your component(s) to a separate file  react-refresh/only-export-components
+
+Γ£û 1 problem (1 error, 0 warnings)
+
